@@ -19,6 +19,6 @@ I'm Mohammad Asri, a passionate software developer who enjoys building modern we
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=SLM-Asri&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=SLM-Asri&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
