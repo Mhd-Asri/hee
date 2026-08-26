@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
+  <img alt="Asri.Dev" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
+</picture>
+
 # 💫 About Me:
 I'm Mohammad Asri, a passionate software developer who enjoys building modern web, mobile, and desktop applications. My interests include full-stack development, software engineering, Artificial Intelligence, Deep Learning, and Computer Vision. I enjoy learning new technologies and developing projects that solve real-world problems.
 
