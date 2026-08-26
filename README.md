@@ -97,9 +97,9 @@ I'm Mohammad Asri, a passionate software developer who enjoys building modern we
   <a href="https://github.com/SLM-Asri?tab=repositories">
     <img title="Repositories" src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github&logoColor=white">
   </a>
-
+<!--
   <a href="https://github.com/SLM-Asri">
     <img title="GitHub" src="https://img.shields.io/badge/GitHub-SLM--Asri-black?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  </a> -->
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
