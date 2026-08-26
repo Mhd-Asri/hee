@@ -55,8 +55,7 @@ I'm Mohammad Asri, a passionate software developer who enjoys building modern we
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SLM-Asri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<div align="center">
+<div align="left">
   <a href="https://github.com/SLM-Asri?tab=followers">
     <img title="Followers" src="https://img.shields.io/github/followers/SLM-Asri?color=EB5406&style=for-the-badge&logo=github&logoColor=white">
   </a>
