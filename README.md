@@ -48,7 +48,7 @@ I'm Mohammad Asri, a passionate software developer who enjoys building modern we
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
 
 ## 🌐 Socials:
 <br/>
@@ -72,9 +72,7 @@ I'm Mohammad Asri, a passionate software developer who enjoys building modern we
 &nbsp;&nbsp;
 </div>
 
-<br/><br/>
-
-
+---
 [![](https://komarev.com/ghpvc/?username=SLM-Asri&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
