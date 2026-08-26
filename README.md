@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SLM-Asri/SLM-Asri/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SLM-Asri/SLM-Asri/main/light.svg">
   <img alt="Asri.Dev" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
 </picture>
 
@@ -14,7 +14,7 @@ I'm Mohammad Asri, a passionate software developer who enjoys building modern we
 <br/>
 <br/>
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/projects/projects.svg" alt="Projects" />
+<img width="100%" src="https://raw.githubusercontent.com/SLM-Asri/SLM-Asri/projects/projects.svg" alt="Projects" />
 </div>
 
 # 📊 GitHub Stats:
